@@ -13,7 +13,7 @@ const fs = require('fs');
 async function whatsAsena() {
 	const conn = new WAConnection();
 	conn.logger.level = 'warn';
-	conn.version = [3, 3234, 9]
+	conn.version = [2, 2214, 9]
 
 	conn.on('connecting', async () => {
 		console.log(`${chalk.green.bold('Amdi')}${chalk.blue.bold('bell')}
