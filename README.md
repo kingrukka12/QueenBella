@@ -9,7 +9,7 @@
 	
 	
 <p align="center">
-  <a href="https://github.com/AnonyMouSeTEAM/Amdibell">
+  <a href="https://github.com/AnonyMouSeTEAM/QueenBella">
     <img src="https://komarev.com/ghpvc/?username=AnonyMouSeTEAM&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
@@ -37,25 +37,25 @@
   
   </a>
   <a href="https://github.com/AnonyMouSeTEAM/fork">
-    <img src="https://img.shields.io/github/forks/BlackVampired/Amdibell?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/AnonyMouSeTEAM/QueenBella?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/AnonyMouSeTEAM/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackVampired/Amdibell?style=social">
+    <img src="https://img.shields.io/github/stars/AnonyMouSeTEAM/QueenBella?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="httsp://github.com/AnonyMouSeTEAM">
-    <img src="https://img.shields.io/github/repo-size/AnonyMouSeTEAM/Amdibell?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/AnonyMouSeTEAM/QueenBella?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="httsp://github.com/AnonyMouSeTEAM">
-    <img src="https://img.shields.io/github/license/AnonyMouSeTEAM/Amdibell?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/AnonyMouSeTEAM/QueenBella?color=purple&label=License&style=plastic">
 
   </a>
   <a href="httsp://github.com/AnonyMouSeTEAM">
-    <img src="https://img.shields.io/github/languages/top/AnonyMouSeTEAM/Amdibell?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/AnonyMouSeTEAM/QueenBella?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="httsp://github.com/AnonyMouSeTEAM">
@@ -65,14 +65,14 @@
   </p>
  <p align="center">
   <a href="https://wa.me/94761444438">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-%20Vampired%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-%20AMSTEAM%20-purple&style=plastic">
 
   </a>
 </p>
 
 ```
 
-Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+QueenBella බොට් රැජින WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
 අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
 ඊට අමතරව, එය පරිශීලකයින් සඳහා ප්ලග් ඉන් සහාය සක්‍රීය කරයි.
@@ -82,7 +82,7 @@ Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශ�
 ```
 
 ```
-Amdibell bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+QueenBella bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
@@ -94,21 +94,21 @@ HAVE A FUN!
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/AnonyMouSeTEAM/Amdibell)](https://replit.com/@AnonyMouSeTEAM/QueenBella?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/AnonyMouSeTEAM/QueenBella)](https://replit.com/@AnonyMouSeTEAM/QueenBella?v=1)
 
 ### step 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonyMouSeTEAM/Amdibell)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonyMouSeTEAM/QueenBella)
 
 
 
-## 🔎 What Amdibell bot?
-**Queen Amdibell bot,** is a WhatsApp helper bot written by [AMS] and Developed by [mr.pasiya and sithum]. Does not log into your account It is written on WhatsApp Web API.
+## 🔎 What QueenBella bot?
+**Queen Amdibell bot,** is a WhatsApp helper bot written by [AMS] and Developed by [MR ASSISENT]. Does not log into your account It is written on WhatsApp Web API.
 
 ### The Hard Method (Not Recommend)
 ```js
 $ git clone https://github.com/kgamdaofficial.git
-$ cd kg amda duplicated
+$ cd AMS duplicated
 $ npm i
 $ nano config.env
 // Config.env oluşturun ve düzenleyin. Örnek: https://github.com/AnonyMouSeTEAM/wiki/config.env-Example
@@ -118,14 +118,14 @@ $ node bot.js
 
 
 
-### What does Amda mean?
+### What does QueenBella mean?
 [BlackVampired](https://tr.wikipedia.org/wiki/Amda), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
 
 <details>
   <summary><h3>Other Questions ❔</h3></summary>
 
 ### Changing Branchs on Local Installation
-Amdibell bot uses always **master** branch. If users cloned other branches, they can't able to install it.
+QueenBella bot uses always **master** branch. If users cloned other branches, they can't able to install it.
 
 </details>
 
@@ -159,11 +159,6 @@ Do not edit copyright messages!
 ### Disclaimer
 `WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
 
-	<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-
-</details>
   
 
 	  
