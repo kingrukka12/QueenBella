@@ -1,14 +1,14 @@
 {
-  "name": "amdibell",
+  "name": "QueenBella",
   "version": "0.16.5",
-  "description": "Amdibell project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./Amdibell/bot.js",
+  "description": "QueenBella project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./QueenBella/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnonyMouSeTEAM/Amdibell.git"
+    "url": "git+https://github.com/AnonyMouSeTEAM/QueenBella.git"
   },
   "keywords": [
     "whatsapp"
@@ -17,9 +17,9 @@
   "developer": "AMS TEAM",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/AnonyMouSeTEAM/Amdibell/issues"
+    "url": "https://github.com/AnonyMouSeTEAM/QueenBella/issues"
   },
-  "homepage": "https://github.com/AnonyMouSeTEAM/Amdibell#readme",
+  "homepage": "https://github.com/AnonyMouSeTEAM/QueenBella#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
