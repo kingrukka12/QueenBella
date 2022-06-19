@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://i.ibb.co/HTZDMQX/LOGO.jpg" width="300" height="300">      
-  <h1>👸QUEEN AMDIBELL👸</h1>
+  <h1>👸QUEEN BELLA👸</h1>
 
 	  
 	
