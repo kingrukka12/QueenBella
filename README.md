@@ -2,7 +2,7 @@
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/HTZDMQX/LOGO.jpg" width="300" height="300">      
+  <img src="https://i.ibb.co/d2GnxCR/LOGO.jpg" width="300" height="300">      
   <h1>👸QUEEN BELLA👸</h1>
 
 	  
