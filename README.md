@@ -59,7 +59,7 @@
 
   </a>
   <a href="httsp://github.com/AnonyMouSeTEAM">
-    <img src="https://img.shields.io/static/v1?label=Author&message=kg%20Vampired&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=AMS%20TEAM&color=purple&style=plastic">
 
   </a>
   </p>
@@ -119,7 +119,7 @@ $ node bot.js
 
 
 ### What does QueenBella mean?
-[BlackVampired](https://tr.wikipedia.org/wiki/Amda), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
+[AMS TEAM](https://tr.wikipedia.org/wiki/AMS), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
 
 <details>
   <summary><h3>Other Questions ❔</h3></summary>
