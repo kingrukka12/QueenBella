@@ -83,7 +83,7 @@ HAVE A FUN!
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/AnonyMouSeTEAM/QueenBella)](https://replit.com/@AnonyMouSeTEAM/QueenBella?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/AnonyMouSeTEAM/QueenBella)](https://replit.com/@AnonyMouSeTEAM/Queen-Bella-QR?v=1)
 
 ### step 2
 
